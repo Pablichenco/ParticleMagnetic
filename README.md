@@ -1,2 +1,2 @@
 # ParticleMagnetic
-non relativistic Particle in presence of a magnetic field, solved using Runge-Kutta 4
+A non relativistic particle in presence of a magnetic field, LDE solved using Runge-Kutta 4
